@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the PetStore API APP
 
-Things you may want to cover:
+#installation of the rails api with postgresql .
 
-* Ruby version
+#create a model for the database and adding tables.
 
-* System dependencies
+#adding the controllers and make the api v1 , so for any update v2 can be added.
 
-* Configuration
+#you can run rails db:seed to adding the tables to the pet store.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#in postman with post request is the http//localhost:3000/api/v1/pet and in postman you choose the content type application.json file.
